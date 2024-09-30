@@ -18,5 +18,5 @@ into form fields
 
 # Screenshot 
 
-![Screenshot](./screenshot/img1.PNG)
+![Screenshot](./screenshot/img1.png)
 ![Screenshot](./screenshot/img2.PNG)
