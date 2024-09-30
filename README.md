@@ -18,5 +18,8 @@ into form fields
 
 # Screenshot 
 
+## Login Page
 ![Screenshot](./screenshot/img1.png)
+
+## Home Page
 ![Screenshot](./screenshot/img2.PNG)
